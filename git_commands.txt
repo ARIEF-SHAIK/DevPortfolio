@@ -1,0 +1,13 @@
+git init - Initializes the Git repository.
+git add . - Stages project files.
+git commit -m "message" - Saves changes as a commit.
+git status - Checks repository status.
+git log --oneline - Displays commit history.
+git branch feature - Creates a feature branch.
+git switch feature - Switches to feature branch.
+git switch main - Switches to main branch.
+git merge feature - Merges feature into main.
+git revert HEAD - Reverses the latest commit.
+git remote add origin <URL> - Connects GitHub repository.
+git push -u origin main - Pushes main branch to GitHub.
+git push -u origin feature - Pushes feature branch to GitHub.
